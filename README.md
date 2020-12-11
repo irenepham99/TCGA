@@ -1,6 +1,7 @@
 # Gene Attribution for Cancer Classification 
 
-
+## Final Report Paper 
+Plesae see the pdf in this repo called DS4440_Final to read my final report! 
 
 ## Code
 To view the code please see the following Colab notebooks:
@@ -22,6 +23,10 @@ The preprocessed data can be found in the drive folder accessible through the fo
 <br/>https://drive.google.com/drive/folders/18tquBCVxyCSm70qS9L-EjtLW6qdoaos8?usp=sharing
 <br/>*Note that even though the file is labeled "Preprocessed_Train_Data.csv" it contains the entire data set. Apologies for the bad naming!
 
+The original data set was taken from the source folders provided in the paper by Lyu et al. who compiled all the data from the TCGA into a single CSV file. Lyu et al used the Broad Institute Firehose portal to obtain all the data. The big_data.csv files in the Google Drive folder linked below contains this data.
+https://drive.google.com/drive/folders/1LfOiyMgnoQy3jaJ37jLeARfw7riLwkyW
+
+## Results and Artifacts
 All artifacts and results generated can be found in this drive folder: 
 <br/>https://drive.google.com/drive/folders/1Z6NIQNoOwxkWGPjPJkUFzIVhrxQnltIp?usp=sharing
 
